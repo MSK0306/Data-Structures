@@ -1,0 +1,25 @@
+At t= 0 Process 1 arrives with Priority= 3 and Runtime= 50. Process 1 starts execution.
+At t= 10 Process 2 arrives with Priority= 2 and Runtime= 70.
+At t= 10 Process 1 is preempted and pushed onto stack with Runtime= 40
+At t= 10 Process 2 starts execution. 
+At t= 20 Process 3 arrives with Priority= 3 and Runtime= 30.
+At t= 20 Process 3 is stored in Q3.
+At t= 30 Process 4 arrives with Priority= 1 and Runtime= 10.
+At t= 30 Process 2 is preempted and pushed onto stack with Runtime= 50
+At t= 30 Process 4 starts execution. 
+At t= 40 Process 4 is completed.
+At t= 40 Process 2 is popped from stack.
+At t= 50 Process 5 arrives with Priority= 2 and Runtime= 30.
+At t= 50 Process 5 is stored in Q2.
+At t= 60 Process 6 arrives with Priority= 1 and Runtime= 10.
+At t= 60 Process 2 is preempted and pushed onto stack with Runtime= 30
+At t= 60 Process 6 starts execution. 
+At t= 70 Process 6 is completed.
+At t= 70 Process 2 is popped from stack.
+At t= 100 Process 2 is completed.
+At t= 100 Process 5 is dequeued from Q2.
+At t= 130 Process 5 is completed.
+At t= 130 Process 1 is popped from stack.
+At t= 170 Process 1 is completed.
+At t= 170 Process 3 is dequeued from Q3.
+At t= 200 Process 3 is completed.

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1575480310 source:c:\users\e223234\documents\ee 441 2232346\e2232346_hw2\e2232346_hw2\main.cpp
+	<iostream>
+	"Stack.h"
+	"Element.h"
+	"PQueue.h"
+	"node.h"
+
+1575472132 c:\users\e223234\documents\ee 441 2232346\e2232346_hw2\e2232346_hw2\stack.h
+	"node.h"
+
+1575479811 c:\users\e223234\documents\ee 441 2232346\e2232346_hw2\e2232346_hw2\node.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1575479974 c:\users\e223234\documents\ee 441 2232346\e2232346_hw2\e2232346_hw2\element.h
+	"node.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1575481753 c:\users\e223234\documents\ee 441 2232346\e2232346_hw2\e2232346_hw2\pqueue.h
+	"node.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	"Element.h"
+
+1577128496 source:c:\users\muhammed\desktop\academic\metu 4.1\ee441\hw2\hw2 final\main.cpp
+	<iostream>
+	"Stack.h"
+	"Element.h"
+	"PQueue.h"
+	"node.h"
+
+1575482101 c:\users\muhammed\desktop\academic\metu 4.1\ee441\hw2\hw2 final\stack.h
+	"node.h"
+
+1575482101 c:\users\muhammed\desktop\academic\metu 4.1\ee441\hw2\hw2 final\node.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1575482101 c:\users\muhammed\desktop\academic\metu 4.1\ee441\hw2\hw2 final\element.h
+	"node.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1575482101 c:\users\muhammed\desktop\academic\metu 4.1\ee441\hw2\hw2 final\pqueue.h
+	"node.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	"Element.h"
+
